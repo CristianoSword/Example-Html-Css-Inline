@@ -1,3 +1,3 @@
 # cristianosword.github.io
 
-Example page HTML and CSS
+Example page HTML and CSS inline
