@@ -1,3 +1,3 @@
-# cristianosword.github.io
+# Example Html & Css Inline
 
-Example Responsive page HTML and CSS inline
+Example Responsive TemplatePage HTML and CSS inline
